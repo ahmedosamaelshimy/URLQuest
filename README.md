@@ -55,3 +55,10 @@ python URLQuest.py [options] <url>
    ```
    python URLQuest.py --extract-all --suggest https://google.com
    ```
+
+---
+**Version**: 0.1
+**Date**: March 24, 2024  
+**Developer**: Ahmed Osama Elshimy  
+**LinkedIn**: [ahmedosamaelshimy](https://www.linkedin.com/in/ahmedosamaelshimy)
+
