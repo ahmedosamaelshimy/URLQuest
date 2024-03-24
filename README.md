@@ -57,8 +57,10 @@ python URLQuest.py [options] <url>
    ```
 
 ---
-**Version**: 0.1
-**Date**: March 24, 2024  
+
+**Version**: 0.1  
+**Date**: March 3, 2024  
 **Developer**: Ahmed Osama Elshimy  
 **LinkedIn**: [ahmedosamaelshimy](https://www.linkedin.com/in/ahmedosamaelshimy)
 
+---
